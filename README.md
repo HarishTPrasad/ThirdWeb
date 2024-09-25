@@ -22,4 +22,5 @@ This project is a decentralized crowdfunding platform backend built on the Ether
 ## Installation
 
 1. **Clone the repository**:
-   ```bash git clone https://github.com/HarishTPrasad/ThirdWeb.git
+   ```bash 
+   git clone https://github.com/HarishTPrasad/ThirdWeb.git
